@@ -2,7 +2,7 @@
 
 ## What's this about?
 
-My second try on learning JS since late 2013. Basically I restarted with just a little notions left from last time. The goal here is to learn a certain style of JS code writing and learn ES6 with react.js and redux as the tool set. And I am experienting a new way to learn with Github and [Genius Beta](http://genius.com/beta). After installing its [Chrome extension](https://chrome.google.com/webstore/detail/genius-beta/ccaokncpmmjiakalbcfdbfmpcaiddjdn), you will able to see my notes on the examples here.
+My second try on learning JS since late 2013. Basically I restarted with just a little notions left from last time. The goal here is to learn a certain style of JS code writing and learn ES6 with react.js and redux as the tool set. And I am experienting a new way to learn with Github and [Genius Beta](http://genius.com/beta). After installing its [Chrome extension](https://chrome.google.com/webstore/detail/genius-beta/ccaokncpmmjiakalbcfdbfmpcaiddjdn), you will be able to see my notes on the examples here.
 
 My first attempt back in late 2013 included skimming some books: the good part, eloquent JS... and trying node.js.
 
